@@ -1,0 +1,19 @@
+{
+  "name": "hendri",
+  "version": "1.0.0",
+  "description": "Upper marketing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Now that's Africanacity\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-vh/tldr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-vh/tldr/issues"
+  },
+  "homepage": "https://github.com/Jason-vh/tldr#readme"
+}
